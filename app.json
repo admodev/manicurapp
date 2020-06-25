@@ -1,0 +1,12 @@
+{
+  "name": "manicura",
+  "displayName": "manicura",
+  "expo": {
+    "name": "manicura",
+    "slug": "manicura",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
