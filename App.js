@@ -39,9 +39,22 @@ export default class App extends React.Component {
     return (
       <div>
         <Container>
-          <Header>
+          <Header style={{ height: "50px" }}>
             <Body>
-              <Title className="titulo">Manicurapp</Title>
+              <Title>
+                <Text
+                  className="titulo"
+                  style={{
+                    marginTop: 120,
+                    marginLeft: "45px",
+                    fontFamily: '"Dancing Script", cursive',
+                    fontSize: "2.7em",
+                    color: "#fff",
+                  }}
+                >
+                  Manicurapp
+                </Text>
+              </Title>
             </Body>
           </Header>
           <Galeria />

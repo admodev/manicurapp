@@ -1,6 +1,1 @@
-.titulo {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/*# sourceMappingURL=app.min.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap");.titulo{margin-top:45px;margin-left:45px;font-size:1.8em}h1{font-family:"Pacifico", cursive}p{font-family:"Dancing Script", cursive}
